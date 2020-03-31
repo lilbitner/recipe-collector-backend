@@ -1,0 +1,19 @@
+{
+  "name": "node_practice_recipes",
+  "version": "1.0.0",
+  "description": "recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lilbitner/recipe-collector-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilbitner/recipe-collector-backend/issues"
+  },
+  "homepage": "https://github.com/lilbitner/recipe-collector-backend#readme"
+}
