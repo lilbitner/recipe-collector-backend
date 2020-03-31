@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lilbitner/recipe-collector-backend/issues"
   },
-  "homepage": "https://github.com/lilbitner/recipe-collector-backend#readme"
+  "homepage": "https://github.com/lilbitner/recipe-collector-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
